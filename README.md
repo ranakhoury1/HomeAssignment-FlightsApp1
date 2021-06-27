@@ -1,5 +1,6 @@
-#HomeAssignment-FlightsApp1
-##The flights app includes: Flight Controller Flight Service
+HomeAssignment-FlightsApp1
+
+The flights app includes: Flight Controller Flight Service
 
 The required APIs for the assignment are:
 
